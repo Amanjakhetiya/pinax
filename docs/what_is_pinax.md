@@ -2,7 +2,7 @@
 
 Pinax is an open source ecosystem of reusable Django apps, themes, and starter project templates.
 
-It takes care of the things that many sites have in common so you can focus on what makes your site different.
+It takes care of the things that many sites have in common so you can focus on what makes your site different.Pinax is a website which can give your site a extra boost which is needed to stand out in the market.
 
 Pinax provides:
 
